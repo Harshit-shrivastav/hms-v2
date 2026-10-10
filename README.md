@@ -7,7 +7,7 @@ This is a full stack hospital management system website written in Flask (Python
 - Doctor Panel
 - Admin panel
 
-
+---
 Admin can CRUD doctors and Patients.
 
 Doctors can create scheduled date, give prescription and feedback to patient.
